@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dubv304miner
-- 👀 I’m interested in crypto, learning code and mining. 
+- 👀 I’m interested in crypto/mining, learning SQL, Python, C+ and Ubuntu/Linux/. 
 - 🌱 I’m currently learning any coding for beginners.
 - 💞️ I’m looking to collaborate on solana, Kadena & Cardano!
 - 📫 How to reach me: Dubv304miner
